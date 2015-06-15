@@ -1,0 +1,37 @@
+Yaoyu Ma
+
+University of Pennsylvania, Philadelphia, PA, USA  -  Master of Science in Bioengineering 
+
+Northeastern University, Shenyang, China  -  Bachelor of Science in Biomedical Engineering 
+
+University of Pennsylvania, School of Engineering and Applied Science, Philadelphia, PA Master of Science in Engineering, Mechanical Engineering & Applied Mechanics, December 2014
+Technical University, Bangalore, India Bachelor of Engineering, Mechanical Engineering, May 2009
+
+mayaoyu@seas.upenn.edu
+
+Courses - : Programming Languages and Techniques, Biomedical image analysis, Software Engineering, Machine Learning, Software Systems, Database & Information Systems, Networked Systems, Computer & Network Security
+
+Projects
+CancerDetector.com, New Jersey, USA - Project manager, codified the assessment and mapped it to the CancerDetector ontology. Member of the UI design team, designed the portfolio builder UI and category search pages UI. Reviewed existing rank order and developed new search rank order approach. 
+
+Biomedical Imaging - Developed a semi-automatic image mosaic program based on SIFT algorithm (using Matlab)
+
+Design and Manufacturing of Mechanical Auto-Feed Gearbox for Column Type Drilling Machine: Devised an automatic gearbox for providing infinite speed-feed for drilling in range of materials with different drill diameters, and an automatic depth adjustment mechanism for drilling blind holes (Fall 2014)
+
+Pro-E: Worked on featured based modeling, family tables and relations, 3D to 2D and associativity, assembly, and sheet metal operations. Designed a fuel injector for motor bike as a small project. (Summer 2014)
+
+ANSYS (Self training): Completed small projects in ANSYS such as stress analysis of a cantilever beam, and spur gears, during undergraduate curriculum. Currently under self training to recollect previously learned principles. (Spring 2014)
+
+iPollo USB charger: Developed a working prototype of a solar operated charger for electronic USB devices. The product was developed from the recognition of customer needs, market segmentation, concept generation, to making the working prototype. The modeling was done in Pro-E and manufacturing was in-house. (Spring 2014)
+
+Flying Robot: Worked on the development and analysis of Flying Robots, funded by DARPA. Developed a prototype of a two rotor system, performed its dynamic analysis to see the effect of forces induced due to the torque on the system which could be used for its directional control. The goal was to develop a sturdy flying mechanism which is lighter, easier to control, and withstands forces induced while flying. (Fall 2013)
+
+Bomb Defusing Robot: Designed and built an autonomous robot which finds and touches an IR LED blinking with a particular frequency. Motorola MC9S12C32 micro-controller was used for programming the robot. The programming was done in embedded C using Metrowerks CodeWarrior as an IDE. (Fall 2013)
+
+Wireless Planar Robot: Designed and built a planar robot with the help of a windows based onboard computer. The robot was programmed in MATLAB for object detection and obstacle avoidance. A vision system was developed with a 640 x 480 pixel webcam, for motion planning and object recognition. (Spring 2013)
+
+------------------------------
+
+
+
+
